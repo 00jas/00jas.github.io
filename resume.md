@@ -42,6 +42,7 @@ Summary of your role
 # Schools 
 
 ## University of Washington, Seattle (Seattle, Washington, United States)
+[University of Washington, Seattle]: https://www.washington.edu/
 
 * Majoring in Geography: Data Science option
 
@@ -49,6 +50,4 @@ Summary of your role
 
 - Graduated with **a 3.8 GPA**.
 - Helped found a club
-
-[University of Washington, Seattle]: https://www.washington.edu/
 
