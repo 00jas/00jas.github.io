@@ -58,3 +58,5 @@ Summary of your role
 - Helped found a club
 
 [University of Washington, Seattle]: https://www.washington.edu/
+
+![This is an image] (https://www.google.com/imgres?imgurl=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2022%2F01%2FUniversity-of-Washington-Logo.png&imgrefurl=https%3A%2F%2Flogos-world.net%2Funiversity-of-washington-logo%2F&tbnid=lzuSyrZEIeeTUM&vet=12ahUKEwiy65Tai8b8AhWzBzQIHRv_AyAQMygDegUIARDtAQ..i&docid=hYlR_CHQ2NcscM&w=3840&h=2160&q=uw.%20logo&ved=2ahUKEwiy65Tai8b8AhWzBzQIHRv_AyAQMygDegUIARDtAQ)
