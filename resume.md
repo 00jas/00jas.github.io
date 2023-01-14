@@ -14,7 +14,7 @@ Expert in C++, Python, R, React AI
 
 ## Google
 
-** Software Engineer (Web App Team)** (2021-2022)
+**Software Engineer (Web App Team)** (2021-2022)
 
 Summary of my role
 
@@ -23,7 +23,7 @@ Summary of my role
 
 ## Microsoft 
 
-** Software Engineer (Search Team)** (2020-2021)
+**Software Engineer (Search Team)** (2020-2021)
 
 Summary of your role
 
@@ -32,7 +32,7 @@ Summary of your role
 
 ## Zillow 
 
-** Full Stack Engineer (Web App Team)** (2019-2020)
+**Full Stack Engineer (Web App Team)** (2019-2020)
 
 Summary of your role
 
@@ -45,7 +45,10 @@ Summary of your role
 
 * Majoring in Geography: Data Science option
 
-** September, 2021 - April, 2023
+**September, 2021 - April, 2023**
 
 - Graduated with **a 3.8 GPA**.
 - Helped found a club
+
+[University of Washington, Seattle]: https://www.washington.edu/
+
